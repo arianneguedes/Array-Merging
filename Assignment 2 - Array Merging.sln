@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Assignment 2 - Array Merging", "Assignment 2 - Array Merging\Assignment 2 - Array Merging.vcxproj", "{08E19966-C1BA-46F4-82BC-AA4868F41431}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Debug|x64.ActiveCfg = Debug|x64
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Debug|x64.Build.0 = Debug|x64
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Debug|x86.ActiveCfg = Debug|Win32
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Debug|x86.Build.0 = Debug|Win32
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Release|x64.ActiveCfg = Release|x64
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Release|x64.Build.0 = Release|x64
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Release|x86.ActiveCfg = Release|Win32
+		{08E19966-C1BA-46F4-82BC-AA4868F41431}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {72102964-83CC-4ECF-8EBB-178646E04DDD}
+	EndGlobalSection
+EndGlobal
